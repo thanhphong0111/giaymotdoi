@@ -61,7 +61,7 @@ ul > li {
   display: inline-block;
 }
 ul > li > a {
-
+	width: 140px;
 	display: flex;
 	flex-direction: row;
 	justify-content: center;
